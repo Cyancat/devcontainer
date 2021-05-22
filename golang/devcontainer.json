@@ -1,0 +1,6 @@
+{
+  "name": "ENV",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
