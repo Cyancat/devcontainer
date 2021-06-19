@@ -1,0 +1,14 @@
+{
+  "name": "ENV",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "php.validate.executablePath": "/usr/local/bin/php"
+  },
+  "extensions": [
+    "bmewburn.vscode-intelephense-client",
+    "eamodio.gitlens",
+    "mblode.pretty-formatter"
+  ]
+}
